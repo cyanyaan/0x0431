@@ -10,7 +10,7 @@
 
 - Not your usual SoyDev.
 
-- 3D Artist (Blender) [https://github.com/ankitsarkar-cyan/Blender-3D-portfolio](https://github.com/ankitsarkar-cyan/Blender-3D-portfolio)
+- 3D Artist (Blender) [https://github.com/ankitsarkarcyan/Blender-3D-portfolio](https://github.com/ankitsarkar-cyan/Blender-3D-portfolio)
 
 - I CAN exit VIm
 
