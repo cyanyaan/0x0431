@@ -1,14 +1,12 @@
-<h1 align="center">Hewwo nerds, Im I'm CyaN</h1>
+<h1 align="center">Hewwo, I'm CyaN</h1>
 <h3 align="center">Open Source Software Advocate</h3>
 
 
-- can use C & C++
+- use C & C++
 
 - would do low level stuffs and OS dev stuffs in future, i suck tho
 
 - I use Arch Linux (btw)
-
-- Not your usual SoyDev.
 
 - 3D Artist (Blender) [https://github.com/ankitsarkarcyan/Blender-3D-portfolio](https://github.com/ankitsarkar-cyan/Blender-3D-portfolio)
 
