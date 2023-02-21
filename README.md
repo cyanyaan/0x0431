@@ -2,15 +2,15 @@
 <h3 align="center">Open Source Software Advocate</h3>
 
 
-- use C & C++
+- use C, C++ & rust.
 
-- would do low level stuffs and OS dev stuffs in future, i suck tho
+- interested in low level stuffs.
 
 - I use Arch Linux (btw)
 
 - 3D Artist (Blender) [https://github.com/ankitsarkarcyan/Blender-3D-portfolio](https://github.com/ankitsarkar-cyan/Blender-3D-portfolio)
 
-- I CAN exit VIm
+- I use exit VIm.
 
 - Game Development: Unity & Godot Game Engine
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/kawai_neko_cyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kawai_neko_cyan" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/https://youtube.com/@cyan_uwu6664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@cyan_uwu6664" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/vhtkKED9Ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/vhtkKED9Ag" height="30" width="40" /></a>
 </p>
