@@ -10,7 +10,7 @@
 
 - 3D Artist (Blender) [https://github.com/ankitsarkarcyan/Blender-3D-portfolio](https://github.com/ankitsarkar-cyan/Blender-3D-portfolio)
 
-- I use exit VIm.
+- I use vim.
 
 - Game Development: Unity & Godot Game Engine
 
