@@ -2,7 +2,7 @@
 <h3 align="center">Open Source Software Advocate</h3>
 
 
-- use C, C++ & rust.
+- use C, C++.
 
 - interested in low level stuffs.
 
